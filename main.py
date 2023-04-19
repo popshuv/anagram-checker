@@ -8,8 +8,8 @@ def main():
     This function takes two strings as input and checks if they are anagrams.
     """
     # Get user input
-    string1 = input("Enter a string: ")
-    string2 = input("Enter another string: ")
+    string1 = input("Enter a string (ONLY UPPERCASE): ")
+    string2 = input("Enter another string (ONLY UPPERCASE): ")
 
     # Check if the strings are uppercase
     if string1.isupper() == True and string2.isupper() == True:
