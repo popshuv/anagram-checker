@@ -1,6 +1,6 @@
 import functions
 
-import a4_q2
+import radix_sort
 
 
 def main():
@@ -33,8 +33,8 @@ def main():
             print("Primes for string2:", prime2)
 
             # Sort list of primes using radix sort
-            sorted_prime_1 = a4_q2.radix_sort(prime1)
-            sorted_prime_2 = a4_q2.radix_sort(prime2)
+            sorted_prime_1 = radix_sort.radix_sort(prime1)
+            sorted_prime_2 = radix_sort.radix_sort(prime2)
 
             # Print list of sorted primes
             print("Sorted primes for string1:", sorted_prime_1)
