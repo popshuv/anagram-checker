@@ -1,14 +1,3 @@
-"""
-CISC-121 2023W
-Name:   Ethan Nguyen
-Student Number: 20235183
-Email:  20hen@queensu.ca
-Date: 2023-03-15
-
-I confirm that this assignment solution is my own work and conforms to Queen’s standards of Academic Integrity
-"""
-
-
 def char_prime(my_char):
     """
     ---------------------------------------------------------------------------------------------
